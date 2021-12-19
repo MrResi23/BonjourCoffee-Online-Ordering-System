@@ -109,6 +109,11 @@ The following are the features and functionalities to be implemented in our Bonj
 
 ![PaymentPage](https://user-images.githubusercontent.com/91930567/146668488-c22ad045-6357-4983-86b8-cc0ad2ac87dc.jpeg)
 
+![Redirecting](https://user-images.githubusercontent.com/62057037/146675058-58295b02-0f44-4109-942c-2a68aa1e6635.png)
+
+![Payment Details](https://user-images.githubusercontent.com/62057037/146675068-c0eaa646-aa4b-4e4d-83f9-38533b0af5ae.png)
+
+
 
 ### References
 1. [For registration page](https://dribbble.com/shots/16780006-Coffee-Shop-App-UI-Design/attachments/11830640?mode=media)

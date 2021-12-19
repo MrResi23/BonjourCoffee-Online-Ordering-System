@@ -47,7 +47,7 @@
 
 ### Sequence Diagram
 
-![SequenceDiagram]![WhatsApp Image 2021-12-19 at 16 26 11](https://user-images.githubusercontent.com/91930567/146668501-159dd66d-e3ab-46ee-a03e-decea628c321.jpeg)
+![SequenceDiagram](https://user-images.githubusercontent.com/91930567/146668501-159dd66d-e3ab-46ee-a03e-decea628c321.jpeg)
 
 
 ### Mockup
@@ -60,7 +60,7 @@
 
 4. Payment
 
-![PaymentPage]![WhatsApp Image 2021-12-19 at 16 25 25](https://user-images.githubusercontent.com/91930567/146668488-c22ad045-6357-4983-86b8-cc0ad2ac87dc.jpeg)
+![PaymentPage](https://user-images.githubusercontent.com/91930567/146668488-c22ad045-6357-4983-86b8-cc0ad2ac87dc.jpeg)
 
 
 ### References

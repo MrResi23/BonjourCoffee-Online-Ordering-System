@@ -10,9 +10,9 @@
 5. Nur Husnina Binti Patohar (1817234)
 
 ### Introduction
-   -Bonjour Coffee is a fictional business created for this project with the intention of creating a web system that would help encourage the coffee shop owners that run the         business within this industry. A coffee business is a well known business in the food and beverages industry. The reason why the topic was chosen by our group is because         this industry is a necessity of the human needs which is food. In doing so, we hope that the system would be beneficial to coffee owners to increase their sales more            efficiently in order to cater to their demands.
+   - Bonjour Coffee is a fictional business created for this project with the intention of creating a web system that would help encourage the coffee shop owners that run the        business within this industry. A coffee business is a well known business in the food and beverages industry. The reason why the topic was chosen by our group is because        this industry is a necessity of the human needs which is food. In doing so, we hope that the system would be beneficial to coffee owners to increase their sales more            efficiently in order to cater to their demands.
  
-   It is also to help the convenience of the customers also as users to the website in order for them to make the transaction purchase more smoothly. With a feeling of ease when    using the website yet efficiently, to give them the best experience while making the purchase.
+     It is also to help the convenience of the customers also as users to the website in order for them to make the transaction purchase more smoothly. With a feeling of ease        when using the website yet efficiently, to give them the best experience while making the purchase.
 
    
 ### Objective
@@ -47,6 +47,9 @@
 
 ### Sequence Diagram
 
+![SequenceDiagram]![WhatsApp Image 2021-12-19 at 16 26 11](https://user-images.githubusercontent.com/91930567/146668501-159dd66d-e3ab-46ee-a03e-decea628c321.jpeg)
+
+
 ### Mockup
 
 1. Registration
@@ -56,6 +59,9 @@
 ![Homepage](https://user-images.githubusercontent.com/92074138/146667627-00c0b256-c0c9-4da6-b502-4c15938810eb.png)
 
 4. Payment
+
+![PaymentPage]![WhatsApp Image 2021-12-19 at 16 25 25](https://user-images.githubusercontent.com/91930567/146668488-c22ad045-6357-4983-86b8-cc0ad2ac87dc.jpeg)
+
 
 ### References
 1. [For registration page](https://dribbble.com/shots/16780006-Coffee-Shop-App-UI-Design/attachments/11830640?mode=media)

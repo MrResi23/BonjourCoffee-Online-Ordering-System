@@ -10,8 +10,13 @@
 5. Nur Husnina Binti Patohar (1817234)
 
 ### Introduction
+   -Bonjour Coffee is a fictional business created for this project with the intention of creating a web system that would help encourage the coffee shop owners that run the         business within this industry. A coffee business is a well known business in the food and beverages industry. The reason why the topic was chosen by our group is because         this industry is a necessity of the human needs which is food. In doing so, we hope that the system would be beneficial to coffee owners to increase their sales more            efficiently in order to cater to their demands.
+ 
+   It is also to help the convenience of the customers also as users to the website in order for them to make the transaction purchase more smoothly. With a feeling of ease when    using the website yet efficiently, to give them the best experience while making the purchase.
 
+   
 ### Objective
+   - The aim is to create a convenient website for coffee lovers to make orders online while helping to increase the sales of coffee shop business owners. 
 
 ### Features and functionalities
 
@@ -57,3 +62,8 @@
 2. [For homepage](https://richiamocoffee.com/)
 3. [For login page](https://card.sbux.com.my/login)
 4. [For payment page](https://www.foodpanda.my/)
+
+
+
+
+

@@ -96,7 +96,7 @@ The following are the features and functionalities to be implemented in our Bonj
 ### Mockup
 
 1. Registration
-
+![Register- Sa'adah](https://user-images.githubusercontent.com/92360027/146672867-f01f6136-9df5-496a-9302-d40dad97e135.png)
 
 2. Login
 ![Login-BONJOUR](https://user-images.githubusercontent.com/77189967/146671754-1df54d1f-1c3a-4b86-9fc2-fd53e3b781aa.png)

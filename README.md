@@ -61,7 +61,8 @@
 
 ### Entity Relationship Diagram (ERD)
 
-![ERD]()
+![ERD-BONJOUR](https://user-images.githubusercontent.com/77189967/146671425-24afcb17-0b7b-4cd4-b4b2-ec49182fb1e5.png)
+
 
 ### Sequence Diagram
 
@@ -72,9 +73,9 @@
 
 1. Registration
 
+
 2. Login
-
-
+![Login-BONJOUR](https://user-images.githubusercontent.com/77189967/146671754-1df54d1f-1c3a-4b86-9fc2-fd53e3b781aa.png)
 
 3. Homepage
 

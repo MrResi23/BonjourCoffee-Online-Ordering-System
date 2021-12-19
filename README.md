@@ -37,13 +37,23 @@
      - The controller will receive user input like order details and call order model to update the table. It will call the homepage view to show the homepage interface.
 3. Routes
 4. Models
-5. Entity Relationship Diagram (ERD)
+
+### Entity Relationship Diagram (ERD)
 
 ### Sequence Diagram
-### References
 
 ### Mockup
 
-1. Homepage
+1. Registration
+2. Login
+3. Homepage
 
 ![Homepage](https://user-images.githubusercontent.com/92074138/146667627-00c0b256-c0c9-4da6-b502-4c15938810eb.png)
+
+4. Payment
+
+### References
+1. [For registration page](https://dribbble.com/shots/16780006-Coffee-Shop-App-UI-Design/attachments/11830640?mode=media)
+2. [For homepage](https://richiamocoffee.com/)
+3. [For login page](https://card.sbux.com.my/login)
+4. [For payment page](https://www.foodpanda.my/)

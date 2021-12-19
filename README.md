@@ -43,3 +43,7 @@
 ### References
 
 ### Mockup
+
+1. Homepage
+
+![Homepage](https://user-images.githubusercontent.com/92074138/146667627-00c0b256-c0c9-4da6-b502-4c15938810eb.png)

@@ -23,26 +23,26 @@
 The following are the features and functionalities to be implemented in our Bonjour Coffee website including:  
 
 1. Easy account creation
-- Account registration
-   Customers have the option of creating a new account.
-- Account login
-   Customers must login before making any purchases.  
+   - Account registration
+      Customers have the option of creating a new account.
+   - Account login
+      Customers must login before making any purchases.  
  
 2. Easy products view
-- Product images
-   Displays few beverage images to attract customers when they visit the website.
-- Product descriptions
-   Displays clear descriptions for each beverage including ingredients.  
-- Product label for non-coffee
-   Display a label for beverages that are non-coffee based. 
+   - Product images
+      Displays few beverage images to attract customers when they visit the website.
+   - Product descriptions
+      Displays clear descriptions for each beverage including ingredients.  
+   - Product label for non-coffee
+      Display a label for beverages that are non-coffee based. 
  
 3. Easy order placement
-- Multiple order 
-   Allow customers to choose the quantity of items that they want to purchase. 
-- Delete order
-   Allow customers to delete any items that they do not want to purchase.  
-- Payment options
-   Provide flexibility for customers to choose their preferred payment methods through online banking or cash.  
+   - Multiple order 
+      Allow customers to choose the quantity of items that they want to purchase. 
+   - Delete order
+      Allow customers to delete any items that they do not want to purchase.  
+   - Payment options
+      Provide flexibility for customers to choose their preferred payment methods through online banking or cash.  
  
 ### Views, controllers, routes and models
 1. Views

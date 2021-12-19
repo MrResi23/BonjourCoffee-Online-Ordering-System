@@ -51,7 +51,7 @@
    - Payment
      - After the user selects payment method, if the user clicks "back to home" button,  it will route back to homepage
 
-5. Models
+4. Models
    - User
      - User model interacts with user table to retrieve data like user ID, order ID, name, email, password
    - Menu
@@ -71,7 +71,11 @@
 ### Mockup
 
 1. Registration
+
 2. Login
+
+
+
 3. Homepage
 
 ![Homepage](https://user-images.githubusercontent.com/92074138/146667627-00c0b256-c0c9-4da6-b502-4c15938810eb.png)

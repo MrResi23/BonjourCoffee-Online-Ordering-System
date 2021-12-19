@@ -41,9 +41,27 @@
    - Payment
      - The controller will receive user input like order details and call order model to update the table. It will call the homepage view to show the homepage interface.
 3. Routes
-4. Models
+   - Login
+     - If the user clicks the “login” button, it will be routed to the homepage
+     - If the user clicks the “register” button, it will be routed to the registration page
+   - Registration
+     - After the user successfully register, it will be routed to homepage
+   - Homepage
+     - From the selection of menu, if the user clicks “order” button, it will be routed to payment page
+   - Payment
+     - After the user selects payment method, if the user clicks "back to home" button,  it will route back to homepage
+
+5. Models
+   - User
+     - User model interacts with user table to retrieve data like user ID, order ID, name, email, password
+   - Menu
+     - Menu model interacts with menu table to retrieve data like drink ID, name of drink and type of drink
+   - Order
+     - Order model interacts with order table to retrieve data like order ID, drink ID, quantity and total price
 
 ### Entity Relationship Diagram (ERD)
+
+![ERD]()
 
 ### Sequence Diagram
 

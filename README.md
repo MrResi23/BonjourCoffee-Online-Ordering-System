@@ -90,7 +90,8 @@ The following are the features and functionalities to be implemented in our Bonj
 
 ### Sequence Diagram
 
-![WebApp Sequence Diagram (1)](https://user-images.githubusercontent.com/62057037/147047980-e36b23f0-f786-48b8-b79b-a37d81dfb7e3.png)
+![WebApp Sequence Diagram](https://user-images.githubusercontent.com/62057037/147048316-ddd03fc8-cfee-4f25-a785-8edeb32bf330.jpg)
+
 
 
 ### Mockup

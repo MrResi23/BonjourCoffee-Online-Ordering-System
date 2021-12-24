@@ -1,6 +1,6 @@
 # BonjourCoffee-Online-Ordering-System
 
-### Presentation link:
+### Presentation link: https://www.youtube.com/watch?v=UOXDv7B-mwE
 ### Group Member:
 
 1. Yasha Adam Bin Yazid (2017701)
@@ -122,8 +122,8 @@ The following are the features and functionalities to be implemented in our Bonj
 3. [For login page](https://card.sbux.com.my/login)
 4. [For payment page](https://www.foodpanda.my/)
 
-### Link For video Presention
-- https://www.youtube.com/watch?v=UOXDv7B-mwE
+
+
 
 
 

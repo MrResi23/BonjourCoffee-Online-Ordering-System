@@ -110,7 +110,14 @@ The following are the features and functionalities to be implemented in our Bonj
 
 ![Payment Details](https://user-images.githubusercontent.com/62057037/146675068-c0eaa646-aa4b-4e4d-83f9-38533b0af5ae.png)
 
+### Website Screenshots
+1. Registration Page
 
+-  Figure below shows registration page. Users can fill in their details including username, email and password, then click on 'register' button to submit. If the users already have an account, they can directly click on 'login' text hyperlink to sign in. 
+![registrationpage](https://user-images.githubusercontent.com/92360027/151151575-ce40f7fb-f428-436d-9eb5-26f8cf85cc0c.jpeg)
+
+
+### Challenges
 
 ### References
 1. [For registration page](https://dribbble.com/shots/16780006-Coffee-Shop-App-UI-Design/attachments/11830640?mode=media)

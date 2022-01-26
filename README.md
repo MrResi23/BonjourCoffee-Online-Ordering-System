@@ -138,10 +138,28 @@ The following are the features and functionalities to be implemented in our Bonj
 ![Home 3](https://user-images.githubusercontent.com/92074138/151167501-63b6cb93-0083-4477-8349-033f7709a050.PNG)
 
 4. Payment 
+- Based on the figure below, There is 3 button that redirect user to Payment gateway. firstly is cash button, secondly Paypal button and lastly Debit or credit card button. The users can chose any method of payment that they want to use. 
+
+![placeorder button](https://user-images.githubusercontent.com/62057037/151191309-e6d99866-ca29-4d60-bad5-32f7ccbce917.jpeg)
+
+- This figure are display of PayPal gateway payment. Users will redirect to this gateway if they chose to use this as the payment method. This page will need users to insert their PayPal account details to log in purposes before proceed to the transaction.
+
+![Paypal](https://user-images.githubusercontent.com/62057037/151192171-bfc1ea92-dbba-411f-86d4-030186846c35.jpeg)
+
+- Figure below shows the form for Debit or Credit payment method. If users chose to pay with the card, this form will appear at the same page and they need to fill all the details before the payment process.
+
+![DebitCredit](https://user-images.githubusercontent.com/62057037/151193237-1a9e9d9f-9569-4207-83b7-17fadf5285e4.jpeg)
+
+- Figure below is confirmation page. Its will shown after users choose to pay cash at the cafe. It will ask for the confirmation before proceed to the payment details.
+
+![Confirmation](https://user-images.githubusercontent.com/62057037/151193765-ee27d68e-7cb2-4de3-b8d9-ba0cd92b9b6a.jpeg)
+
 
 
 6. Payment Details
+- This figure are the display of payments details after all transaction were made. This pop up shows the payment details with unique Order id after users purchase the order and brought  it to pickup order at the counter.  
 
+![PaymentDetails](https://user-images.githubusercontent.com/62057037/151194902-a1642fb2-7683-43aa-b829-fb69861dd8f5.jpeg)
 
 8. Welcome Page
 

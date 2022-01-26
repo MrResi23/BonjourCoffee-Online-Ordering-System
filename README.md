@@ -122,8 +122,12 @@ The following are the features and functionalities to be implemented in our Bonj
 ![loginpage](https://user-images.githubusercontent.com/77189967/151154827-7f7687ba-3759-438a-9550-8dcd16a0751d.png)
 
 3. Homepage
+
+- These figures shows the homepage where all menus in Bonjour Coffee were displayed. User can click on 'Back' button to go back to 'Welcome' page. Each menu have description and price. User can click 'Order' button to make an order and will bring to 'Cart' page. At footer, there are contact informations which are E-Mail and Hotline number.
 ![Home 1](https://user-images.githubusercontent.com/92074138/151167455-047003a7-5efb-4144-a1b4-1fda308b484e.PNG)
+
 ![Home 2](https://user-images.githubusercontent.com/92074138/151167483-7f135628-9d1e-4515-9ae6-a563584fc3eb.PNG)
+
 ![Home 3](https://user-images.githubusercontent.com/92074138/151167501-63b6cb93-0083-4477-8349-033f7709a050.PNG)
 
 

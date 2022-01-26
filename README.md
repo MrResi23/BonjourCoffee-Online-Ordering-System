@@ -141,7 +141,7 @@ The following are the features and functionalities to be implemented in our Bonj
 ### Challenges
 1. Do a connection from controllers to phpmyadmin especially when retrieving latest row inserted by user to update and insert new data to a column.
 2. To do a calculation of a total price which we have to retrieve data from two tables or models.
-3. Constraints from different individual schedules
+3. Time constraints from different individual schedules challenges our progress
  
 
 

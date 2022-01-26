@@ -45,7 +45,7 @@ The following are the features and functionalities to be implemented in our Bonj
 ### Views, controllers, routes and models
 1. Views
    - Registration
-     - Allows user to register new account
+     - Allows user to register a new account
    - Login
      - Page for existing users to log in with their credentials. Non-existing users need to register before proceeding to homepage
    - Homepage
@@ -58,10 +58,11 @@ The following are the features and functionalities to be implemented in our Bonj
      - The controller will receive user input like name, email and password and call the user model to update the table. It will call the homepage view to show the homepage interface
    - Login
      - The controller will receive user input like email and password and call the user model to authenticate the user input base on the database. If the user clicks “login” button, the controller will call the homepage view to show the homepage interface
-   - Homepage
-     - The controller will call the welcome view to show the welcome interface if the user click “back” button. It also will call the payment view to show the payment interface if the user click “order” button
-   - Payment
-     - The controller will receive user input like order details and call order model to update the table. It will call the homepage view to show the homepage interface.
+   - Menu Controller
+     - The controller will interact with database to store menu id in order table when user clicks order button in homepage. Then it will return the details of menu chosen in homepage view. 
+   - Order controller 
+     - The controller will retrieve the quantity from user input and store the quantity in order table. Then, calculate the total price based on price of menu chosen and quantity. Next, it will store the total price in order table and call another function to show the order details in payment details page. 
+    
 3. Routes
    - Login
      - If the user clicks the “login” button, it will be routed to the homepage
@@ -108,6 +109,8 @@ The following are the features and functionalities to be implemented in our Bonj
 4. Payment
 
 ![PaymentPage](https://user-images.githubusercontent.com/91930567/146668488-c22ad045-6357-4983-86b8-cc0ad2ac87dc.jpeg)
+
+![Redirecting](https://user-images.githubusercontent.com/62057037/146675058-58295b02-0f44-4109-942c-2a68aa1e6635.png)
 
 ![Payment Details](https://user-images.githubusercontent.com/62057037/146675068-c0eaa646-aa4b-4e4d-83f9-38533b0af5ae.png)
 

@@ -122,7 +122,7 @@ The following are the features and functionalities to be implemented in our Bonj
 
 2. Login Page
 
-- Figure below shows the login page. Users can enter their email and password to login into the system. The system will authenticate their details based on the database. Users can also click the register now button at the bottom to register an account.
+- Figure below shows the login page. Users can enter their email and password to login into the system. The system will authenticate their details based on the database. Users can also click the 'register now' button at the bottom to register an account.
 
 ![loginpage](https://user-images.githubusercontent.com/77189967/151154827-7f7687ba-3759-438a-9550-8dcd16a0751d.png)
 
@@ -135,6 +135,18 @@ The following are the features and functionalities to be implemented in our Bonj
 ![Home 2](https://user-images.githubusercontent.com/92074138/151167483-7f135628-9d1e-4515-9ae6-a563584fc3eb.PNG)
 
 ![Home 3](https://user-images.githubusercontent.com/92074138/151167501-63b6cb93-0083-4477-8349-033f7709a050.PNG)
+
+4. Payment 
+
+
+6. Payment Details
+
+
+8. Welcome Page
+After the user is done with their purchase, they can click 'back' button at the homepage,which will direct to welcome page. They can then click 'logout' button to logout from the system
+![welcome1](https://user-images.githubusercontent.com/77189967/151178567-ae906300-531e-4a93-99d9-4e9cf20f678e.png)
+![welcome2](https://user-images.githubusercontent.com/77189967/151178572-da1a6176-a1cc-4aca-9f0a-3c5b71b1df4c.png)
+
 
 
 

@@ -143,7 +143,7 @@ The following are the features and functionalities to be implemented in our Bonj
 
 
 
-- Based on the figure below, There is 3 button that redirect user to Payment gateway. firstly is cash button, secondly Paypal button and lastly Debit or credit card button. The users can chose any method of payment that they want to use. 
+- Based on the figure below, There are 3 buttons that redirect user to Payment gateway. firstly is cash button, secondly Paypal button and lastly Debit or credit card button. The users can choose any method of payment that they want to use. 
 
 ![placeorder button](https://user-images.githubusercontent.com/62057037/151191309-e6d99866-ca29-4d60-bad5-32f7ccbce917.jpeg)
 
@@ -151,7 +151,7 @@ The following are the features and functionalities to be implemented in our Bonj
 
 ![Paypal](https://user-images.githubusercontent.com/62057037/151192171-bfc1ea92-dbba-411f-86d4-030186846c35.jpeg)
 
-- Figure below shows the form for Debit or Credit payment method. If users chose to pay with the card, this form will appear at the same page and they need to fill all the details before the payment process.
+- Figure below shows the form for Debit or Credit payment method. If users chose to pay with card, this form will appear at the same page and they need to fill all the details before the payment process.
 
 ![DebitCredit](https://user-images.githubusercontent.com/62057037/151193237-1a9e9d9f-9569-4207-83b7-17fadf5285e4.jpeg)
 

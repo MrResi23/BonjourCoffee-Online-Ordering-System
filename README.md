@@ -137,8 +137,8 @@ The following are the features and functionalities to be implemented in our Bonj
 
 4. Payment 
 
-- This page displays the pickup address of Bonjour Coffee and also the details of customer's order
--
+- This page displays the pickup address of Bonjour Coffee and also the details of customer's drink order which are menu ID, name, description, price and also type
+
 ![payment](https://user-images.githubusercontent.com/77189967/151197359-749676d1-1960-4e55-a69b-9284318f5bb6.png)
 
 

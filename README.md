@@ -84,9 +84,7 @@ The following are the features and functionalities to be implemented in our Bonj
      - Order model interacts with order table to retrieve data like order ID, drink ID, quantity and total price
 
 ### Entity Relationship Diagram (ERD)
-
-![ERD-BONJOUR](https://user-images.githubusercontent.com/77189967/146671425-24afcb17-0b7b-4cd4-b4b2-ec49182fb1e5.png)
-
+![ERD BONJOUR drawio](https://user-images.githubusercontent.com/77189967/151140608-222a140d-9951-43f0-8856-0ea88d44f431.png)
 
 ### Sequence Diagram
 

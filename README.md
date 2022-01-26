@@ -59,7 +59,7 @@ The following are the features and functionalities to be implemented in our Bonj
    - Login
      - The controller will receive user input like email and password and call the user model to authenticate the user input base on the database. If the user clicks “login” button, the controller will call the homepage view to show the homepage interface
    - Homepage
-     - The controller will call the login view to show the login interface if the user click “logout” button. It also will call the payment view to show the payment interface if the user click “order” button
+     - The controller will call the welcome view to show the welcome interface if the user click “back” button. It also will call the payment view to show the payment interface if the user click “order” button
    - Payment
      - The controller will receive user input like order details and call order model to update the table. It will call the homepage view to show the homepage interface.
 3. Routes

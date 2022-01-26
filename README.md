@@ -136,6 +136,13 @@ The following are the features and functionalities to be implemented in our Bonj
 ![Home 3](https://user-images.githubusercontent.com/92074138/151167501-63b6cb93-0083-4477-8349-033f7709a050.PNG)
 
 4. Payment 
+
+- This page displays the pickup address of Bonjour Coffee and also the details of customer's order
+-
+![payment](https://user-images.githubusercontent.com/77189967/151197359-749676d1-1960-4e55-a69b-9284318f5bb6.png)
+
+
+
 - Based on the figure below, There is 3 button that redirect user to Payment gateway. firstly is cash button, secondly Paypal button and lastly Debit or credit card button. The users can chose any method of payment that they want to use. 
 
 ![placeorder button](https://user-images.githubusercontent.com/62057037/151191309-e6d99866-ca29-4d60-bad5-32f7ccbce917.jpeg)
@@ -162,6 +169,7 @@ The following are the features and functionalities to be implemented in our Bonj
 8. Welcome Page
 
 - Figure below shows what the user sees after logging out. After the user is done with their purchase, they can click 'back' button at the homepage, which will direct to welcome page. They can then click 'logout' button to logout from the system. It also contains the footer with social icons. Users can also login again or register from this page
+
 ![welcome1](https://user-images.githubusercontent.com/77189967/151178567-ae906300-531e-4a93-99d9-4e9cf20f678e.png)
 ![welcome2](https://user-images.githubusercontent.com/77189967/151178572-da1a6176-a1cc-4aca-9f0a-3c5b71b1df4c.png)
 

@@ -58,9 +58,9 @@ The following are the features and functionalities to be implemented in our Bonj
      - The controller will receive user input like name, email and password and call the user model to update the table. It will call the homepage view to show the homepage interface
    - Login
      - The controller will receive user input like email and password and call the user model to authenticate the user input base on the database. If the user clicks “login” button, the controller will call the homepage view to show the homepage interface
-   - Menu Controller
+   - Menu 
      - The controller will interact with database to store menu id in order table when user clicks order button in homepage. Then it will return the details of menu chosen in homepage view. 
-   - Order controller 
+   - Order 
      - The controller will retrieve the quantity from user input and store the quantity in order table. Then, calculate the total price based on price of menu chosen and quantity. Next, it will store the total price in order table and call another function to show the order details in payment details page. 
     
 3. Routes

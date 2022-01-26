@@ -77,7 +77,7 @@ The following are the features and functionalities to be implemented in our Bonj
    - User
      - User model interacts with user table to retrieve data like user ID, order ID, name, email, password
    - Menu
-     - Menu model interacts with menu table to retrieve data like drink ID, name of drink and type of drink
+     - Menu model interacts with menu table to retrieve data like drink ID, name of drink, drink description, price and type of drink
    - Order
      - Order model interacts with order table to retrieve data like order ID, drink ID, quantity and total price
 

@@ -34,7 +34,7 @@ The following are the features and functionalities to be implemented in our Bonj
    - Product descriptions
       - Displays clear descriptions for each beverage including ingredients.  
    - Product label for non-coffee
-      - Display a label for beverages that are non-coffee based. 
+      - Display a label for coffee type. 
  
 3. Easy order placement
    - Multiple order 

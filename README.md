@@ -38,9 +38,7 @@ The following are the features and functionalities to be implemented in our Bonj
  
 3. Easy order placement
    - Multiple order 
-      - Allow customers to choose the quantity of items that they want to purchase. 
-   - Delete order
-      - Allow customers to delete any items that they do not want to purchase.  
+      - Allow customers to choose the quantity of items that they want to purchase.   
    - Payment options
       - Provide flexibility for customers to choose their preferred payment methods through online banking or cash.  
  

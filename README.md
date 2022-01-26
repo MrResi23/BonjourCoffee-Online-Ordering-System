@@ -143,7 +143,7 @@ The following are the features and functionalities to be implemented in our Bonj
 
 
 8. Welcome Page
-After the user is done with their purchase, they can click 'back' button at the homepage,which will direct to welcome page. They can then click 'logout' button to logout from the system
+This is what the user sees after logging out. After the user is done with their purchase, they can click 'back' button at the homepage,which will direct to welcome page. They can then click 'logout' button to logout from the system
 ![welcome1](https://user-images.githubusercontent.com/77189967/151178567-ae906300-531e-4a93-99d9-4e9cf20f678e.png)
 ![welcome2](https://user-images.githubusercontent.com/77189967/151178572-da1a6176-a1cc-4aca-9f0a-3c5b71b1df4c.png)
 

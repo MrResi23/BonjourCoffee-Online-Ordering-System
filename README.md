@@ -71,7 +71,7 @@ The following are the features and functionalities to be implemented in our Bonj
    - Homepage
      - From the selection of menu, if the user clicks “order” button, it will be routed to payment page
    - Payment
-     - After the user selects payment method, if the user clicks "back to home" button,  it will route back to homepage
+     - After the user selects payment method, if the user clicks "Back to homepage" button,  it will route back to homepage
 
 4. Models
    - User

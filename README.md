@@ -114,16 +114,19 @@ The following are the features and functionalities to be implemented in our Bonj
 1. Registration Page
 
 -  Figure below shows registration page of Bonjour Coffee's website. Users can fill in their details including username, email and password, then click on 'register' button to submit. If the users already have an account, they can directly click on 'login' text hyperlink to sign in. 
+
 ![registrationpage](https://user-images.githubusercontent.com/92360027/151151575-ce40f7fb-f428-436d-9eb5-26f8cf85cc0c.jpeg)
 
 2. Login Page
 
 - Figure below shows the login page. Users can enter their email and password to login into the system. The system will authenticate their details based on the database. Users can also click the register now button at the bottom to register an account.
+
 ![loginpage](https://user-images.githubusercontent.com/77189967/151154827-7f7687ba-3759-438a-9550-8dcd16a0751d.png)
 
 3. Homepage
 
 - These figures shows the homepage where all menus in Bonjour Coffee were displayed. User can click on 'Back' button to go back to 'Welcome' page. Each menu have description and price. User can click 'Order' button to make an order and will bring to 'Cart' page. At footer, there are contact informations which are E-Mail and Hotline number.
+
 ![Home 1](https://user-images.githubusercontent.com/92074138/151167455-047003a7-5efb-4144-a1b4-1fda308b484e.PNG)
 
 ![Home 2](https://user-images.githubusercontent.com/92074138/151167483-7f135628-9d1e-4515-9ae6-a563584fc3eb.PNG)

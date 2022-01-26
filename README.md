@@ -116,6 +116,14 @@ The following are the features and functionalities to be implemented in our Bonj
 -  Figure below shows registration page of Bonjour Coffee's website. Users can fill in their details including username, email and password, then click on 'register' button to submit. If the users already have an account, they can directly click on 'login' text hyperlink to sign in. 
 ![registrationpage](https://user-images.githubusercontent.com/92360027/151151575-ce40f7fb-f428-436d-9eb5-26f8cf85cc0c.jpeg)
 
+2. Login Page
+
+- Figure below shows the login page. Users can enter their email and password to login into the system. The system will authenticate their details based on the database. Users can also click the register now button at the bottom to register an account.
+![loginpage](https://user-images.githubusercontent.com/77189967/151154827-7f7687ba-3759-438a-9550-8dcd16a0751d.png)
+
+
+
+
 
 ### Challenges
 1. Do a connection from controllers to phpmyadmin especially when retrieving latest row inserted by user to update and insert new data to a column.

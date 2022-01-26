@@ -113,11 +113,17 @@ The following are the features and functionalities to be implemented in our Bonj
 ### Website Screenshots
 1. Registration Page
 
--  Figure below shows registration page. Users can fill in their details including username, email and password, then click on 'register' button to submit. If the users already have an account, they can directly click on 'login' text hyperlink to sign in. 
+-  Figure below shows registration page of Bonjour Coffee's website. Users can fill in their details including username, email and password, then click on 'register' button to submit. If the users already have an account, they can directly click on 'login' text hyperlink to sign in. 
 ![registrationpage](https://user-images.githubusercontent.com/92360027/151151575-ce40f7fb-f428-436d-9eb5-26f8cf85cc0c.jpeg)
 
 
 ### Challenges
+1. Do a connection from controllers to phpmyadmin especially when retrieving latest row inserted by user to update and insert new data to a column.
+2. To do a calculation of a total price which we have to retrieve data from two tables or models.
+3. 
+ 
+
+
 
 ### References
 1. [For registration page](https://dribbble.com/shots/16780006-Coffee-Shop-App-UI-Design/attachments/11830640?mode=media)
